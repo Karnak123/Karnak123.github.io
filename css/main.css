@@ -1,3 +1,7 @@
+:root {
+    --opacity: 0;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -8,6 +12,9 @@ html {
     height: 7%;
     top: 0;
     background-color: rgb(56, 46, 59);
+    z-index: 2;
+    opacity: var(--opacity);
+    transition: 0.25s ease-in;
 }
 
 .header-nav ul {
