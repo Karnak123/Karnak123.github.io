@@ -204,6 +204,12 @@ footer {
     padding: 0.5%;
     background-color: rgb(20, 26, 26);
     color: white;
+<<<<<<< HEAD
     line-height: 20%;
     font-size: 100%;
 }
+=======
+    line-height: 5px;
+    font-size: 12px;
+}
+>>>>>>> d9eaa08cd6084f785a6a448078c4b0ee86c5a276
