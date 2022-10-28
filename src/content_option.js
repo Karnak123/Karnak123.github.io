@@ -7,17 +7,17 @@ const meta = {
 const introdata = {
     title: "I’m Sagnik Mazumder",
     animated: {
-        first: "I love learning",
-        second: "I code cool websites",
+        first: "I love Blackpink",
+        second: "I create solutions",
         third: "I play the violin, guitar and sitar",
     },
-    description: "I'm a hobbyist and a learner primarily. Love solving critical problems, art, philosophy, and music.",
+    description: "I'm a hobbyist. Love solving critical problems, art, philosophy, and music.",
     // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "An explorer by nature, I love to learn new things and explore new places. I am a software engineer by profession and an artist by passion. Love to explore the worlds in Lovecraftian works and am essentially a jazz musician, with an avid interest in philosophy. Self taught violinist, guitarist and sitar player. Trilingual but planning on learning more languages and maybe the Rudra Veena.",
+    aboutme: "An explorer by nature, I love to learn new things and explore new places. I am a software engineer by profession and an artist by passion. Love to explore worlds in Lovecraftian horror and am essentially a jazz musician, with an avid interest in philosophy. Self taught violinist, guitarist and sitar player. Trilingual but planning on learning more languages and maybe the Rudra Veena.",
 };
 const worktimeline = [{
     jobtitle: "Software Engineer",
@@ -51,11 +51,11 @@ const skills = [{
 },
 {
     name: "Javascript",
-    value: 70,
+    value: 65,
 },
 {
     name: "Requirement Analysis",
-    value: 70,
+    value: 65,
 },
 {
     name: "Salesforce",
@@ -69,7 +69,7 @@ const skills = [{
 
 const services = [{
     title: "Salesforce",
-    description: "Been working with Salesforce for nearly a year now. Having developed a fintech project from scratch to production, I have a good understanding of the platform.",
+    description: "Been working with Salesforce for nearly a year now. Having developed a fintech product from scratch to production, I have a good understanding of the platform.",
 },
 ];
 
