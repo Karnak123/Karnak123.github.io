@@ -10,9 +10,10 @@ const introdata = {
         first: "I love Blackpink",
         second: "I create solutions",
         third: "I play the violin, guitar and sitar",
+        fourth: "विनाश काले विपरीत बुद्धि",
     },
     description: "I'm a hobbyist. Love solving critical problems, art, philosophy, and music.",
-    // your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://i.imgur.com/ayZwOwW.png",
 };
 
 const dataabout = {
