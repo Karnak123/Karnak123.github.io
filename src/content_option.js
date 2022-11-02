@@ -17,7 +17,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "a bit about my self",
     aboutme: "An explorer by nature, I love to learn new things and explore new places. I am a software engineer by profession and an artist by passion. Love to explore worlds in Lovecraftian horror and am essentially a jazz musician, with an avid interest in philosophy. Self taught violinist, guitarist and sitar player. Trilingual but planning on learning more languages and maybe the Rudra Veena.",
 };
 const worktimeline = [{
@@ -70,7 +70,7 @@ const skills = [{
 
 const services = [{
     title: "Salesforce",
-    description: "Been working with Salesforce for nearly a year now. Having developed a fintech product from scratch to production, I have a good understanding of the platform.",
+    description: "Been working with Salesforce for nearly a year. Having developed a fintech product from scratch to production, have gained a fair understanding of the platform.",
 },
 ];
 
@@ -94,7 +94,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "sagnikmazumdar37@gmail.com",
     YOUR_FONE: "(700)138-9539",
-    description: "I am ususally available on my email. You can also reach me on my phone number. Working on IST times, usually available on Saturday mornings.",
+    description: "I am available on my email. You can also reach me on my phone number. Working on IST times, available on Saturday mornings.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_1iveov8",
