@@ -5,20 +5,17 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Sagnik Mazumder",
+    title: "Hi, I'm Sagnik Mazumder",
     animated: {
-        first: "I love Blackpink",
-        second: "I create solutions",
-        third: "I play the violin, guitar and sitar",
-        fourth: "विनाश काले विपरीत बुद्धि",
+        first: "A Software Engineer with a passion for creating innovative solutions."
     },
-    description: "I'm a hobbyist. Love solving critical problems, art, philosophy, and music.",
+    description: "I work at CloudKaptan, a leading company that provides cloud-based services using Salesforce. I have been involved in developing and deploying various applications and integrations for our clients, using the latest technologies and best practices. I enjoy learning new skills and exploring new challenges, and always strive to deliver high-quality results.\nI created this portfolio page to showcase some of my work and achievements. I hope you enjoy browsing through my portfolio.",
     your_img_url: "https://i.imgur.com/6BNw4Tz.png",
 };
 
 const dataabout = {
     title: "a bit about my self",
-    aboutme: "An explorer by nature, I love to learn new things and explore new places. I am a software engineer by profession and an artist by passion. Love to explore worlds in Lovecraftian horror and am essentially a jazz musician, with an avid interest in philosophy. Self taught violinist, guitarist and sitar player. Trilingual but planning on learning more languages and maybe the Rudra Veena.",
+    aboutme: "I have a background in Computer Science and Engineering, and have worked on projects involving web development, data analysis, machine learning, and natural language processing. I have also participated in several hackathons and coding competitions, where I showcased my problem-solving and teamwork abilities.",
 };
 const worktimeline = [{
     jobtitle: "Software Engineer",
@@ -44,27 +41,19 @@ const worktimeline = [{
 
 const skills = [{
     name: "Apex",
-    value: 90,
-},
-{
-    name: "Python",
-    value: 75,
+    value: 85,
 },
 {
     name: "Javascript",
-    value: 65,
+    value: 70,
 },
 {
     name: "Requirement Analysis",
-    value: 65,
+    value: 75,
 },
 {
     name: "Salesforce",
     value: 60,
-},
-{
-    name: "SQL",
-    value: 75,
 },
 ];
 
@@ -93,8 +82,8 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "sagnikmazumdar37@gmail.com",
-    YOUR_FONE: "(700)138-9539",
-    description: "I am available on my email. You can also reach me on my phone number. Working on IST times, available on Saturday mornings.",
+    YOUR_FONE: "(91)7001-389-539",
+    description: "Feel free to reach out directly or leave a message!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_1iveov8",

@@ -27,14 +27,12 @@ export const Home = () => {
                   <Typewriter
                     options={{
                       strings: [
-                        introdata.animated.first,
-                        introdata.animated.second,
-                        introdata.animated.third,
-                        introdata.animated.fourth,
+                        introdata.animated.first
                       ],
                       autoStart: true,
-                      loop: true,
-                      deleteSpeed: 10,
+                      loop: false,
+                      deleteSpeed: 0,
+                      pauseFor: 600000000
                     }}
                   />
                 </h1>
