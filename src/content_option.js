@@ -13,7 +13,7 @@ const introdata = {
         fourth: "विनाश काले विपरीत बुद्धि",
     },
     description: "I'm a hobbyist. Love solving critical problems, art, philosophy, and music.",
-    your_img_url: "https://i.imgur.com/ayZwOwW.png",
+    your_img_url: "https://i.imgur.com/6BNw4Tz.png",
 };
 
 const dataabout = {
